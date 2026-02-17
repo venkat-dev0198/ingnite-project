@@ -1,0 +1,9 @@
+{
+  "name": "SheroSafe - Advanced Women Safety System",
+  "description": "An end-to-end safety platform featuring SOS, AI threat detection, safety check-ins, silent alarms, and automatic evidence recording.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
